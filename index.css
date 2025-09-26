@@ -1,0 +1,28 @@
+ div{
+    border: 1px solid gray;
+    height:445px;
+    width: 230px;
+    text-align: center;
+    padding: 40px;    
+    border-radius: 30px;
+    margin: 40px;
+    background-color: white;
+    box-shadow: 5px 5px 10px grey,-5px -5px 10px grey;
+
+
+}
+h2{
+    margin-left: 10px;
+}
+p{
+    background-color:rgb(241, 234, 234);
+}
+.j{
+
+    height: 40px;
+    width: 90px;
+}
+.j:hover{
+        color:white;
+        background-color:orange;
+    }
